@@ -9,5 +9,5 @@
   - Applying machine learning for automating and improving kidney transplant patient donor matching decisions
 - **Supervisor:** Professor Swati Gupta
 
-- My email is rj30@mit.edu. You can also connect with me on [**LinkedIn**](https://www.linkedin.com/in/rrmj)
+- My email is rj30@mit.edu. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/rrmj)
 !
