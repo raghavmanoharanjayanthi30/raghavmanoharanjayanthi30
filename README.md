@@ -11,7 +11,7 @@ This is a bit about me:
   - Applying machine learning for understanding kidney transplant patient donor matching decisions
 - **Supervisor:** Professor Swati Gupta
 
-👨🏻‍💻 I’m currently working on various Machine Learning projects, with my capstone project on MIT in collaboration with Cigna is focused on developing a optimal treatment recommendation system for patients diganosed with depression.
+👨🏻‍💻 I’m currently working on various Machine Learning projects, with my capstone project on MIT in collaboration with Cigna focused on developing a optimal treatment recommendation system for patients diganosed with depression.
 
 - My email is rj30@mit.edu. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/rrmj)!
 
