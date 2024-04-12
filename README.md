@@ -7,7 +7,7 @@ This is a bit about me:
 - **Current Position:**
   - Graduate Research Assistant at MIT
 - **Research Focus:**
-  - Applying machine learning for automating and improving kidney transplant patient donor matching decisions
+  - Applying machine learning for understanding kidney transplant patient donor matching decisions
 - **Supervisor:** Professor Swati Gupta
 
 👨🏻‍💻 I’m currently working on various Machine Learning projects, with my capstone project on MIT in collaboration with Cigna is focused on developing a optimal treatment recommendation system for patients diganosed with depression.
