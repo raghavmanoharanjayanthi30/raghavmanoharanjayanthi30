@@ -4,8 +4,9 @@ This is a bit about me:
 - **Education:**
   - Master of Business Analytics candidate at Massachusetts Institute of Technology, graduating in August 2024
   - Bachelor’s degree in Biomedical Engineering with Highest Honors from Georgia Institute of Technology (May 2023)
-- **Current Position:**
+- **Current Positions:**
   - Graduate Research Assistant at MIT
+  - Capstone Project with Cigna
 - **Research Focus:**
   - Applying machine learning for understanding kidney transplant patient donor matching decisions
 - **Supervisor:** Professor Swati Gupta
