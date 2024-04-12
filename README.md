@@ -14,7 +14,7 @@ This is a bit about me:
 
 - My email is rj30@mit.edu. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/rrmj)!
 
-Here are some of my recent achievements that I am happy to share:
+Here are some of my **recent achievements** that I am happy to share:
 
 - Sherlock Picasso: Won 2nd place ⭐ and a prize of $3000 at the Google x MIT Sloan Product Hackathon (developed a marketing tool for small medium businesses)
 - MIT Analytics Lab: Won 3rd place ⭐ at the MIT Initiative on the Digital Economy’s Analytics Lab Event (developed an AI Email Assistant in collaboration with CMA CGM)
