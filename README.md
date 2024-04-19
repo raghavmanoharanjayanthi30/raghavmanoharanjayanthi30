@@ -21,4 +21,4 @@ Here are some of my **recent achievements** that I am happy to share:
 
 - Sherlock Picasso: Won 2nd place ⭐ and a prize of $3000 at the Google x MIT Sloan Product Hackathon (developed a marketing tool for small medium businesses)
 - MIT Analytics Lab: Won 3rd place ⭐ at the MIT Initiative on the Digital Economy’s Analytics Lab Event (developed an AI Email Assistant in collaboration with CMA CGM)
-- AI Earth Hackathon: Ranked Top 15% ⭐ in the AI Earth Hackathon organized by the Digital Data Design (D^3) Institute at Harvard University
+- AI Earth Hackathon: Ranked Top 15% ⭐ in the AI Earth Hackathon organized by the Digital Data Design (D3) Institute at Harvard University
