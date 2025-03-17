@@ -1,7 +1,7 @@
 # Raghav Raahul Manoharan Jayanthi's Profile
 
 Hi I'm Raghav. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-I'm currently working as a Data Scientist at C3.ai in Redwood City, California
+I'm currently working as a Data Scientist at C3.ai in Redwood City, California apply my skills in traditional machine learning, generative AI, and optimization.
 
 - **Education:**
   - Master of Business Analytics candidate at Massachusetts Institute of Technology, graduating in August 2024
@@ -9,13 +9,12 @@ I'm currently working as a Data Scientist at C3.ai in Redwood City, California
 - **Previous Positions:**
   - Graduate Research Assistant at MIT
   - Capstone Project with Cigna
-- **Research Focus:**
-  - Applying machine learning for understanding kidney transplant patient donor matching decisions
-- **Supervisor:** Professor Swati Gupta
+- **Grad Research Focus:**
+  - Applying machine learning for understanding kidney transplant patient donor matching decisions (
 
-👨🏻‍💻 I’m currently working on various Machine Learning projects, with my capstone project on MIT in collaboration with Cigna focused on developing a optimal treatment recommendation system for patients diganosed with depression.
+👨🏻‍💻 Always building.
 
-- My email is rj30@mit.edu. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/rrmj)!
+- You can also connect with me on [LinkedIn](https://www.linkedin.com/in/rrmj)!
 
 Here are some of my **recent achievements** that I am happy to share:
 
