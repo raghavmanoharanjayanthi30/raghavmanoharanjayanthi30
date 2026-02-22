@@ -1,7 +1,7 @@
 # Raghav Raahul Manoharan Jayanthi's Profile
 
 Hi I'm Raghav. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-I'm currently working as a Data Scientist at C3.ai in Redwood City, California applying my skills in traditional machine learning, generative AI, and optimization.
+I'm currently working as a Machine Learning Engineer at C3.ai in Redwood City, California applying my skills in traditional machine learning, generative AI, and optimization.
 
 - **Education:**
   - Master of Business Analytics candidate at Massachusetts Institute of Technology, graduating in August 2024
